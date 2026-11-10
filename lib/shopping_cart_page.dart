@@ -215,7 +215,7 @@ class _DeliveryCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Deliver to Arby Jhon Colina',
+                  'Deliver to Christian Macay',
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                   style: TextStyle(
@@ -226,7 +226,7 @@ class _DeliveryCard extends StatelessWidget {
                 ),
                 SizedBox(height: 5),
                 Text(
-                  'Maa, Davao City',
+                  'Brgy 8-A Bankerohan Madapo Lower Davao City',
                   style: TextStyle(color: _muted, fontSize: 12),
                 ),
               ],
